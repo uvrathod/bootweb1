@@ -1,12 +1,12 @@
 hr
 {
-color:
-border-width:
-border-height:
+    border-color: #f05f40;
+    border-width: 3px;
+    max-width: 50px;
 }
 
 header{
-backgroung-image:url("http://blackrockdigital.github.io/startbootstrap-creative/img/header.jpg");
+background-image:url("http://blackrockdigital.github.io/startbootstrap-creative/img/header.jpg");
 height:100%;
 width:100%;
 
