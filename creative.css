@@ -66,3 +66,12 @@ header {
   background-image: url('http://blackrockdigital.github.io/startbootstrap-creative/img/header.jpg');
   text-align: center;
   color: white;
+}
+
+
+header .header-content {
+  position: relative;
+  text-align: center;
+  padding: 100px 15px 100px;
+  width: 100%;
+}
