@@ -19,10 +19,37 @@ hr.light
     color:white;
 }
 
+#b1, #b2 , #b3
+{
+    color:#f05f40;;
+}
+h1,h2,h3,h4,h5,h6
+{
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+p
+{
+    font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+.bg-primary {
+  background-color: #f05f40;
+}
+.bg-dark {
+  background-color: #222222;
+  color: white;
+}
+.text-faded {
+  color: rgba(255, 255, 255, 0.7);
+}
 
-header{
-background-image:url("http://blackrockdigital.github.io/startbootstrap-creative/img/header.jpg");
-height:100%;
-width:100%;
-
+section {
+  padding: 100px 0;
+}
+aside {
+  padding: 50px 0;
+}
+.no-padding {
+  padding: 0;
 }
