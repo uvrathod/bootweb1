@@ -53,3 +53,13 @@ aside {
 .no-padding {
   padding: 0;
 }
+
+header {
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  background-size: cover;
+  background-position: center;
+  background-image: url('http://blackrockdigital.github.io/startbootstrap-creative/img/header.jpg');
+  text-align: center;
+  color: white;
